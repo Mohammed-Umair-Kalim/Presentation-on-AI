@@ -1,5 +1,6 @@
 # 🧠 Summary: The Evolution of Artificial Intelligence:
-<img src="a1.jpg" alt="ai" width="300"/>
+<img src="a1.jpg" alt="ai" width="600"/>
+
 ## Foundations (1940s–1950s):
 - Early thinkers like Alan Turing, John von Neumann, and Claude Shannon built the theoretical and mathematical groundwork for AI.
 - Neural network concepts and the Turing Test emerged.
