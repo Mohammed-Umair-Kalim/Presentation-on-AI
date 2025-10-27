@@ -1,4 +1,4 @@
-# 🧠 Summary: The Evolution of Artificial Intelligence:
+# The Evolution of Artificial Intelligence:
 <img src="a1.jpg" alt="ai" width="600"/>
 
 ## Foundations (1940s–1950s):
