@@ -48,7 +48,7 @@ Fine-tuning and RLHF (Reinforcement Learning from Human Feedback) to align respo
 
 <img src="a2.jpg" alt="ai" width="600"/>
 
-# Summary Timeline of Paradigm Shifts
+## Summary Timeline of Paradigm Shifts
 
 | Era           | Paradigm Shift                          | Key Milestones                          |
 |---------------|----------------------------------------|----------------------------------------|
